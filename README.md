@@ -40,4 +40,5 @@ python Flappy_Moai.py
 ## 📈 Contexte
 
 Ce projet est mon premier travail personnel en programmation.
-Il témoigne de mon point de départ et de mon évolution depuis vers des projets plus structurés et avancés.
+Il témoigne de mon point de départ et de mon évolution depuis vers des projets plus structurés et avancés. 
+C'est pour cela que j'ai choisi de laisser les fichiers et la structure du projet tel quel.
